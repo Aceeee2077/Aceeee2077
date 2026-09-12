@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ace</h1>
 
-<!--
-**Aceeee2077/Aceeee2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=University+Student;Exploring+AI+Agents;Building+Useful+Things+with+AI;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm currently a university student learning how to use <b>AI Agents</b>
+  to build small tools that make <b>study, work, and everyday life easier</b>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 What I'm Exploring
+
+- AI Agents & Automation
+- Computer Vision
+- Desktop Applications
+- Local AI / LLM / VLM
+- Robotics & Embedded Systems
+
+### 🏸 Currently Working On
+
+I'm currently researching an
+
+**Autonomous Badminton Shuttlecock Collecting Robot**
+
+combining:
+
+`Computer Vision` · `AI` · `Robotics` · `Embedded Systems`
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,electron,pytorch,opencv,docker,git,github,linux,vscode" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🐱 **Prismoo** — Desktop pet application
+- 🌌 **Minecraft Shader** — Exploring real-time graphics and visual effects
+- 🧰 **AI Tools** — Small AI-powered utilities for everyday tasks
+- 🏸 **Badminton Robot** — Autonomous shuttlecock collecting robot research
+
+---
+
+<p align="center">
+  <i>Learning by building. 🚀</i>
+</p>
