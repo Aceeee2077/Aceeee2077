@@ -8,7 +8,7 @@
 
 <p align="center">
   I'm currently a university student learning how to use <b>AI Agents</b>
-  to build small tools that make <b>study, work, and everyday life easier</b>.
+  to build small tools that make <b>daily life easier</b>.
 </p>
 
 ---
