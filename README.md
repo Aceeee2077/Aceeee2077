@@ -51,5 +51,5 @@ combining:
 ---
 
 <p align="center">
-  <i>Learning by building. 🚀</i>
+  <i>Learning by exploring. 🚀</i>
 </p>
